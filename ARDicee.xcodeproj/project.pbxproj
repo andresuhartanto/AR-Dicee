@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				652971AD2333416000955778 /* AppDelegate.swift */,
-				652971AF2333416000955778 /* art.scnassets */,
 				652971B12333416000955778 /* ViewController.swift */,
 				652971B32333416000955778 /* Main.storyboard */,
+				652971AF2333416000955778 /* art.scnassets */,
 				652971B62333416300955778 /* Assets.xcassets */,
 				652971B82333416300955778 /* LaunchScreen.storyboard */,
 				652971BB2333416300955778 /* Info.plist */,
@@ -294,7 +294,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.andresuhart.ARDicee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -312,7 +312,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.andresuhart.ARDicee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
